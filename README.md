@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Exclusive](https://github.com/kinglaine/Exclusive)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **IOS Development**
 
 - 💬 Ask me about **Android-Studio**
 
