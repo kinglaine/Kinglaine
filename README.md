@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Woodley Gelin</h1>
-<h3 align="center">I love E-Skating on my downtime</h3>
+<h1 align="center">Hi 👋, I'm Woodley Gelin.</h1>
+<h3 align="center">I love E-Skating on my downtime.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476mrr2gd0z1gmt953m3paarva6itr4pd0spmi06y3&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [Exclusive](https://github.com/kinglaine/Exclusive)
